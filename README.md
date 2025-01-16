@@ -17,7 +17,7 @@ In this project, I:
 
 ## View the Webpage  
 
-You can view the webpage I created at `https://wolsongis.github.io/<helloworld>/`.  
+You can view the webpage I created at `https://wolsongis.github.io/helloworld/`.  
 
 ## Questions or Issues  
 
